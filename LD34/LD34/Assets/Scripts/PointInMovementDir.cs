@@ -41,8 +41,8 @@ public class PointInMovementDir : MonoBehaviour {
         if (collision.gameObject.tag == PlantTagName && time > 1)
         {
             Instantiate(Plant, body.position, transform.rotation);
-            audio.Play();
-            StartCoroutine(wait(3));
+            
+            //StartCoroutine((3));
         }
         Destroy(this.gameObject);
         
