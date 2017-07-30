@@ -1,0 +1,1772 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Shane Farritor\Documents\Unity Projects\LD39\New Unity Project\Windows_build\Build2\LD39_Mars_Escape_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.227 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.985894 ms
+foo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+foo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+foo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "EscapePod/Cube_001", Mesh asset path "" Mesh name "Cube_001"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "EscapePod/Cone", Mesh asset path "" Mesh name "Cone"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "EscapePod/Cube", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 0)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (78)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (77)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (78)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (77)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (77)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (78)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (27)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (24)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (24)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (27)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (25)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (23)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (23)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (23)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock_Small (102)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock_Small (56)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3da4 -> priority: 1 
+  Thread -> id: 36f4 -> priority: 1 
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (39)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (39)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (39)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (38)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (38)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayButton.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.283026 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 7974.
+Total: 1.639010 ms (FindLiveObjects: 0.368544 ms CreateObjectMapping: 0.071842 ms MarkObjects: 1.172809 ms  DeleteObjects: 0.024569 ms)
+
+foo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+foo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+foo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "EscapePod/Cube_001", Mesh asset path "" Mesh name "Cube_001"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "EscapePod/Cone", Mesh asset path "" Mesh name "Cone"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "EscapePod/Cube", Mesh asset path "" Mesh name "Cube"
+ 
+(Filename:  Line: 0)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (78)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (77)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (78)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (77)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (77)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (78)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (22)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (23)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (19)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (27)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (25)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (24)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (27)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (24)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (16)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (23)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (23)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (21)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (18)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (20)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Mining
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock_Small (102)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rock_Small (56)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (39)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (39)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (39)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (38)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+New Prefab (38)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Flashlight Reminder (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_001_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Grid_MeshPart0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FPSController
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+FPSController
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ExplosionForceKiller.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ExplosionForceKiller.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ExplosionForceKiller.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
